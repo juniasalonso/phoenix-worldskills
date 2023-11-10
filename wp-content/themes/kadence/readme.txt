@@ -1,10 +1,10 @@
 === Kadence ===
 Contributors: britner
 Tags: translation-ready, two-columns, right-sidebar, left-sidebar, footer-widgets, blog, custom-logo, custom-background, custom-menu, rtl-language-support, editor-style, threaded-comments, custom-colors, featured-images, wide-blocks, full-width-template, theme-options, e-commerce.
-Requires at least: 5.4
-Tested up to: 6.3
+Requires at least: 6.2
+Tested up to: 6.4
 Requires PHP: 7.2
-Stable tag: 1.1.48
+Stable tag: 1.1.49
 License: GNU General Public License v3.0 (or later)
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -34,6 +34,10 @@ assist you with verification, CVE assignment, and notify the
 developers of this theme.
 
 = Changelog =
+
+== 1.1.49 | 9th October 2023 ==
+* Fix: Issue with image select in customizer.
+* Fix: Issue with gradient control in customizer.
 
 == 1.1.48 | 18th October 2023 ==
 * Add: Option to use logo icon.

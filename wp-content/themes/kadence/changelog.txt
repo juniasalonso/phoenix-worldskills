@@ -1,3 +1,7 @@
+== 1.1.49 | 9th October 2023 ==
+* Fix: Issue with image select in customizer.
+* Fix: Issue with gradient control in customizer.
+
 == 1.1.48 | 18th October 2023 ==
 * Add: Option to use logo icon.
 * Update: Typography options to include inherit header.
